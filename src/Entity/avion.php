@@ -3,6 +3,7 @@ namespace App\Entity;
 
 use App\Repository\ProductRepository;
 use Doctrine\ORM\Mapping as ORM;
+// avion entity in mysql
 
 /**
  * @ORM\Entity(repositoryClass=ProductRepository::class)
