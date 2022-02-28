@@ -3,7 +3,7 @@ namespace App\Entity;
 
 use App\Repository\ProductRepository;
 use Doctrine\ORM\Mapping as ORM;
-// une modification du 28/02 ajout d'un comment en plus
+// une modification depuis PHPstorm
 /**
  * @ORM\Entity(repositoryClass=ProductRepository::class)
  */
